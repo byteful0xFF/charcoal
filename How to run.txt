@@ -1,0 +1,6 @@
+Step 1. Root with Singularity (follow StripesVR's tut)
+Step 2. Download and unzip
+Step 3. Run this in terminal:
+su -c "sh '/storage/emulated/0/Download/BigScary-JaSC-Android/run-android.sh'"
+Or copy it from:
+https://www.stripes.lol/singularity.html
